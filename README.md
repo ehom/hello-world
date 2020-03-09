@@ -1,1 +1,1 @@
-# hello-world
+# single-page-app template
